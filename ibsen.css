@@ -23,9 +23,14 @@ background-color: lightgreen;
     color:blue; 
  }
  .table{
-    border: 1.5px;
-    color: indigo;
-    text-align: center;
+    border: 5px; ;
+    color: brown;
+    text-align: center ;
+    padding: 2px;
+    margin: 2px;;
  }
+ tr:nth-child(odd) {
+    background-color: white;
+  }
 
  
