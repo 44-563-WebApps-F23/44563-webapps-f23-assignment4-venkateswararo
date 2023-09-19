@@ -1,0 +1,31 @@
+
+ .speech{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+ }
+
+ .direction{
+    font-family: 'Courier New', Courier, monospace;
+font-size: 12px;
+color: black;
+background-color: lightgreen;
+ }
+ .direction:hover{
+    background-color: yellow;
+    color:orangered ;
+ }
+ 
+ .nameMRSLINDE{
+    color: red;
+ }
+ .nameKROGSTAD{
+    color:blue; 
+ }
+ .table{
+    border: 1.5px;
+    color: indigo;
+    text-align: center;
+ }
+
+ 
