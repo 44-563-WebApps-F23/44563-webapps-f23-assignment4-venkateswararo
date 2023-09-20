@@ -16,9 +16,10 @@ background-color: lightgreen;
     color:orangered ;  
  }
  
- .nameMRSLINDE:hover{
+ .nameMRSLINDE{
     color: red;
     text-shadow: 45px;
+    
  }
  .nameKROGSTAD{
     color:blue; 
@@ -48,6 +49,13 @@ background-color: lightgreen;
     background-color: blue;
    
   }
+  .name:hover{
+   border:2px solid;
+   text-shadow: 2px 2px 5px red;
+   
+  }
+
+
 
 
  
