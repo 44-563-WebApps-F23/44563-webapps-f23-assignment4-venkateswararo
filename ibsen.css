@@ -52,9 +52,9 @@ background-color: lightgreen;
   .name:hover{
    border:2px solid;
    text-shadow: 2px 2px 5px red;
+   filter:blur(0.7px);
    
   }
-  
   ul.navbar-horizontal {
    /* remove these */
    list-style-type: none;
